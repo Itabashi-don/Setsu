@@ -1,4 +1,4 @@
-const mastodon = require("mastodon");
+const mastodon = require("mastodon-api");
 const fs = require("fs");
 
 let mstdn = new mastodon({
