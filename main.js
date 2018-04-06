@@ -7,5 +7,5 @@ let mstdn = new mastodon({
 });
 
 mstdn.post("statuses", {
-    status: 'test'
+    status: 'test by Setsu'
 });
