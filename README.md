@@ -1,24 +1,37 @@
 # Setsu
-A Vritual Asistance for itabashi-don.
+I'm a virtual assistant. I live in itabshi.
 
+## Languages
+* [Japanese](/README_ja.md)<Br />
+※Now Ready......
 
-English
+## Description
+Hello,I'm Setsu. I can't talk like human.<Br />
+But I assist your life. Please call me free.<Br />
+For example,Setsu,Setsu-chan......<Br />
+I'm going to do something. Nice to meet you.
 
-This is Bot for Itabashi-don which Mastodon Instance.
-But Everyone can use this.
-Now,I'll make Two system.
-First,Tool system.
-Second,Talk system.
-But Talk system don't use other service.
-Full manual.
-First,make Talk system base.
+## Requires
+* [Node.js](https://nodejs.org)
+* Some VPS<Br />
+      ※I use [Vultr](https://www.vultr.com)
 
+## Author
+* Яё Sinn Rinn(Main Developer & Charactor Design)
+  * Mastodon account<Br />
+      [Itabashi-don(Owner)](https://itabashi.0j0.jp/about)<Br />
+      [Y-zu](https://mstdn.y-zu.org/about)<Br />
+      [Knzk.me](https://knzk.me/about)
 
-日本語(Japanese)
+  * Github<Br />
+      [My account](https://github.com/sinnrinn)<Br />
+      [Itabashi-don])(https://github.com/Itabashi-don)
 
-これはMastodonインスタンスである板橋丼のためのbotです。
-しかし誰でも使えます。
-現在私は便利機能と会話機能の２つを作る予定です。
-ただし、会話機能に関しては他サービスを使用する予定はありません。
-完全手動です。
-まず会話機能のベース(主に応答)を作成し、その後に好感度や滑らかな会話を作成する予定です(前後の会話から汲み取り話すなど)
+* Mr.Mana(Charactor Design)<Br />
+  * Twitter<Br />
+      Now Ready......
+
+Anonymous(Help develop)
+
+## License
+[MIT License](/LICENSE)
