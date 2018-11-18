@@ -12,6 +12,8 @@
 
 ## Requires
 * [Python3](https://www.python.org)
+   * Mastodon.py
+      "pip install mastodon.py"
 * VPS<Br />
       ※作成者使用VPS [Vultr](https://www.vultr.com)
 
