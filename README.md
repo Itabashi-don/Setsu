@@ -13,6 +13,8 @@ I'm going to do something. Nice to meet you.
 
 ## Requires
 * [Python3](https://www.python.org/)
+  * Mastodon.py
+      "pip install mastodon.py"
 * Some VPS<Br />
       ※I use [Vultr](https://www.vultr.com)
 
