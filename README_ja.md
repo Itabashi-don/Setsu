@@ -11,16 +11,16 @@
 いろんなことできるように頑張るねっ。よろしく！
 
 ## Requires
-* [Node.js](https://nodejs.org)
+* [Python3](https://www.python.org)
 * VPS<Br />
       ※作成者使用VPS [Vultr](https://www.vultr.com)
 
 ## Author
 * Яё Sinn Rinn(メイン開発者 & キャラクターデザイン)
   * Mastodonアカウント<Br />
-      [Itabashi-don(Owner)](https://itabashi.0j0.jp/about)<Br />
-      [Y-zu](https://mstdn.y-zu.org/about)<Br />
-      [Knzk.me](https://knzk.me/about)
+      [Itabashi-don(Owner)](https://itabashi.0j0.jp/@resinnrinn)<Br />
+      [Y-zu](https://mstdn.y-zu.org/@resinnrinn)<Br />
+      [Knzk.me](https://knzk.me/@resinnrinn)
 
   * Github<Br />
       [My account](https://github.com/sinnrinn)<Br />
